@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * via: https://github.com/blakeembrey/lower-case
  */
