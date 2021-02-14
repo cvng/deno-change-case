@@ -1,4 +1,4 @@
-import { LanguageSpecific } from "./types.ts";
+import type { LanguageSpecific } from "./types.ts";
 
 const LANGUAGES: LanguageSpecific = {
   tr: {

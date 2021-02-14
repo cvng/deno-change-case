@@ -1,8 +1,9 @@
+// @ts-nocheck
 /**
  * via: https://github.com/blakeembrey/lower-case
  */
 
-import { LanguageSpecific } from "./types.ts";
+import type { LanguageSpecific } from "./types.ts";
 
 /**
  * Special language-specific overrides.
@@ -14,7 +15,7 @@ const LANGUAGES: LanguageSpecific = {
     map: {
       İ: "\u0069",
       I: "\u0131",
-      İ: "\u0069",
+      İ: "\u0069",
     },
   },
   az: {
@@ -22,7 +23,7 @@ const LANGUAGES: LanguageSpecific = {
     map: {
       İ: "\u0069",
       I: "\u0131",
-      İ: "\u0069",
+      İ: "\u0069",
     },
   },
   lt: {
